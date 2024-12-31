@@ -1,0 +1,26 @@
+{
+  "spec": 1,
+  "name": "Pixel CCShakeCat PX",
+  "previewText": "A pixel font designed on how I write irl",
+  "main": {
+      "ABCGintoNord-ExtraBold": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPXBd.ttf",
+      "ggsans-Bold": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPXBd.ttf",
+      "ggsans-BoldItalic": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPXBdIt.ttf",
+      "ggsans-ExtraBold": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPXBd.ttf",
+      "ggsans-ExtraBoldItalic": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPXBdIt.ttf",
+      "ggsans-Medium": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPX.ttf",
+      "ggsans-MediumItalic": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPXIt.ttf",
+      "ggsans-Normal": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPX.ttf",
+      "ggsans-NormalItalic": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPXIt.ttf",
+      "ggsans-Semibold": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPX.ttf",
+      "ggsans-SemiboldItalic": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPXIt.ttf",
+      "NotoSans-Bold": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPXBd.ttf",
+      "NotoSans-ExtraBold": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPXBdIt.ttf",
+      "NotoSans-Medium": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPX.ttf",
+      "NotoSans-Normal": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPX.ttf",
+      "NotoSans-NormalItalic": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPXIt.ttf",
+      "NotoSans-Semibold": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPX.ttf",
+      "SourceCodePro-Semibold": "https://github.com/CCShakeCat/CCShakeCat-font-revenge/blob/main/PixelCCSCPX.ttf"
+  }
+}
+
